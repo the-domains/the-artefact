@@ -6,9 +6,9 @@ color:
   saturation: 0.04018936399370432
   rhythmicContrast: 0.4773562951013446
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 name: The Artefact
