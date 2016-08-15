@@ -1,0 +1,14 @@
+layout_spectrum: 0.26037482474930584
+typography_spectrum: 0.3952563237398863
+color:
+  brandStrength: 0.40051966765895486
+  lightness: 0.3526442889124155
+  saturation: 0.04018936399370432
+  rhythmicContrast: 0.4773562951013446
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: The Artefact
